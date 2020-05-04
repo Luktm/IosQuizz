@@ -1,10 +1,4 @@
-//
-//  Question.swift
-//  Quizzler-iOS13
-//
-//  Created by cspeed on 4/16/20.
-//  Copyright © 2020 The App Brewery. All rights reserved.
-//
+
 
 import Foundation
 

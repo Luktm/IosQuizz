@@ -1,9 +1,3 @@
-//
-//  QuizBrain.swift
-//  Quizzler-iOS13
-//
-//  Created by cspeed on 4/17/20.
-//  Copyright © 2020 The App Brewery. All rights reserved.
 
 import Foundation
 
